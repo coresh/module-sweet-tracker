@@ -18,7 +18,6 @@ composer.json -> append:
     }
 
 
-```bash
 composer require sweet-analytics/sweet-tracker
 ```
 
