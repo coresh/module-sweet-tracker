@@ -19,9 +19,7 @@ composer.json -> append:
 ```
 
 ```
-Execute:
-
-composer require sweet-analytics/sweet-tracker
+$ composer require sweet-analytics/sweet-tracker
 ```
 
 ### 2. Upgrade Magento
