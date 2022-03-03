@@ -5,7 +5,7 @@
   "license": "OSL-3.0",
   "description": "Magento module for Sweet Analytics Tracker.",
   "require": {
-    "php": "^7.1|^7.2|^7.3|^7.4",
+    "php": "^7.1|^7.2|^7.3|^7.4"
   },
   "autoload": {
     "files": [ "registration.php" ],
