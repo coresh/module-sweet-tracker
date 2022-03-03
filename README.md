@@ -16,7 +16,10 @@ composer.json -> append:
             "url": "https://github.com/coresh/module-sweet-tracker"
         }
     }
+```
 
+```
+Execute:
 
 composer require sweet-analytics/sweet-tracker
 ```
