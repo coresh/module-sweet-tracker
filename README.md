@@ -1,4 +1,4 @@
-# Sweet Analytics Tracker
+# Sweet Analytics Tracker. Compatible with Magento v.2.4.3
 
 This extension implements Sweet Analytics Tracker for Magento 2.
 
@@ -7,6 +7,17 @@ This extension implements Sweet Analytics Tracker for Magento 2.
 Installation can be done via uploading this extension to `app/code` directory or via composer:
 
 ### 1. Install
+composer.json -> append:
+```
+    "repositories": {
+        "coresh/module-sweet-tracker":
+        {
+            "type": "git",
+            "url": "https://github.com/coresh/module-sweet-tracker"
+        }
+    }
+
+
 ```bash
 composer require sweet-analytics/sweet-tracker
 ```
