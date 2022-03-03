@@ -1,4 +1,4 @@
-# Sweet Analytics Tracker. Compatible with Magento v.2.4.3
+# Sweet Analytics Tracker. Compatible with Magento v2.4.3
 
 This extension implements Sweet Analytics Tracker for Magento 2.
 
